@@ -1,16 +1,13 @@
-### Hi there 👋
+### Avien Ithari
 
-<!--
-**avienithari/avienithari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Passionate developer from Poland.
 
-Here are some ideas to get you started:
+🔭 Working on:
+* [Advent of Code](https://github.com/avienithari/AdventOfCode)
+* [Interpreter Book](https://interpreterbook.com/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently learning:
+* Python
+* Go
+
+🤔 Eager to learn Rust, Zig in the near future
